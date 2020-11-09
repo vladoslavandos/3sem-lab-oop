@@ -1,0 +1,9 @@
+/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/CMakeFiles/edit_cache.dir
+/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/CMakeFiles/test.dir
+/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/CMakeFiles/rebuild_cache.dir
+/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/CMakeFiles/card_test.dir
+/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/CMakeFiles/main.dir
+/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/catch2/CMakeFiles/edit_cache.dir
+/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/catch2/CMakeFiles/test.dir
+/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/catch2/CMakeFiles/rebuild_cache.dir
+/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/catch2/CMakeFiles/Catch2.dir

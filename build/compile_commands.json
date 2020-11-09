@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build",
+  "command": "/usr/bin/c++   -I/home/vlados_korch/Документы/GitHub/3sem-lab-oop/catch2  -g   -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++2a -o CMakeFiles/card_test.dir/test.cpp.o -c /home/vlados_korch/Документы/GitHub/3sem-lab-oop/test.cpp",
+  "file": "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/test.cpp"
+},
+{
+  "directory": "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build",
+  "command": "/usr/bin/c++   -I/home/vlados_korch/Документы/GitHub/3sem-lab-oop/catch2  -g   -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wuseless-cast -std=gnu++2a -o CMakeFiles/card_test.dir/cardioid.cpp.o -c /home/vlados_korch/Документы/GitHub/3sem-lab-oop/cardioid.cpp",
+  "file": "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/cardioid.cpp"
+},
+{
+  "directory": "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/main.dir/main.cpp.o -c /home/vlados_korch/Документы/GitHub/3sem-lab-oop/main.cpp",
+  "file": "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/main.cpp"
+},
+{
+  "directory": "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/main.dir/cardioid.cpp.o -c /home/vlados_korch/Документы/GitHub/3sem-lab-oop/cardioid.cpp",
+  "file": "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/cardioid.cpp"
+},
+{
+  "directory": "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/catch2",
+  "command": "/usr/bin/c++   -I/home/vlados_korch/Документы/GitHub/3sem-lab-oop/catch2  -g   -o CMakeFiles/Catch2.dir/catch.cpp.o -c /home/vlados_korch/Документы/GitHub/3sem-lab-oop/catch2/catch.cpp",
+  "file": "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/catch2/catch.cpp"
+}
+]

@@ -1,0 +1,98 @@
+Start testing: Nov 08 21:22 MSK
+----------------------------------------------------------
+1/5 Testing: words::sets a & gets a
+1/5 Test: words::sets a & gets a
+Command: "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test" "sets a & gets a"
+Directory: /home/vlados_korch/Документы/GitHub/3sem-lab-oop/build
+"words::sets a & gets a" start time: Nov 08 21:22 MSK
+Output:
+----------------------------------------------------------
+Filters: sets a & gets a
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"words::sets a & gets a" end time: Nov 08 21:22 MSK
+"words::sets a & gets a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: words::gives right arc length
+2/5 Test: words::gives right arc length
+Command: "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test" "gives right arc length"
+Directory: /home/vlados_korch/Документы/GitHub/3sem-lab-oop/build
+"words::gives right arc length" start time: Nov 08 21:22 MSK
+Output:
+----------------------------------------------------------
+Filters: gives right arc length
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"words::gives right arc length" end time: Nov 08 21:22 MSK
+"words::gives right arc length" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: words::gives max length from axis
+3/5 Test: words::gives max length from axis
+Command: "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test" "gives max length from axis"
+Directory: /home/vlados_korch/Документы/GitHub/3sem-lab-oop/build
+"words::gives max length from axis" start time: Nov 08 21:22 MSK
+Output:
+----------------------------------------------------------
+Filters: gives max length from axis
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"words::gives max length from axis" end time: Nov 08 21:22 MSK
+"words::gives max length from axis" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: words::calculates right area
+4/5 Test: words::calculates right area
+Command: "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test" "calculates right area"
+Directory: /home/vlados_korch/Документы/GitHub/3sem-lab-oop/build
+"words::calculates right area" start time: Nov 08 21:22 MSK
+Output:
+----------------------------------------------------------
+Filters: calculates right area
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"words::calculates right area" end time: Nov 08 21:22 MSK
+"words::calculates right area" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: words::gives radius of curvative
+5/5 Test: words::gives radius of curvative
+Command: "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test" "gives radius of curvative"
+Directory: /home/vlados_korch/Документы/GitHub/3sem-lab-oop/build
+"words::gives radius of curvative" start time: Nov 08 21:22 MSK
+Output:
+----------------------------------------------------------
+Filters: gives radius of curvative
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"words::gives radius of curvative" end time: Nov 08 21:22 MSK
+"words::gives radius of curvative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 08 21:22 MSK

@@ -1,0 +1,5 @@
+if(EXISTS "/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test_tests-b858cb2.cmake")
+  include("/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test_tests-b858cb2.cmake")
+else()
+  add_test(card_test_NOT_BUILT-b858cb2 card_test_NOT_BUILT-b858cb2)
+endif()

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/card_test.dir/test.cpp.o CMakeFiles/card_test.dir/cardioid.cpp.o  -o card_test  catch2/libCatch2.a 

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20201108-1820-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.16.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="vladosik"
+	OSRelease="5.4.0-52-generic"
+	OSVersion="#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="76"
+	ProcessorCacheSize="1024"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="3904"
+	TotalPhysicalMemory="3855"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2065.26"
+	>
+	<Testing>
+		<StartDateTime>Nov 08 21:22 MSK</StartDateTime>
+		<StartTestTime>1604859775</StartTestTime>
+		<TestList>
+			<Test>./words__sets_a_&amp;_gets_a</Test>
+			<Test>./words__gives_right_arc_length</Test>
+			<Test>./words__gives_max_length_from_axis</Test>
+			<Test>./words__calculates_right_area</Test>
+			<Test>./words__gives_radius_of_curvative</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>words::sets a &amp; gets a</Name>
+			<Path>.</Path>
+			<FullName>./words__sets_a_&amp;_gets_a</FullName>
+			<FullCommandLine>/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test "sets a &amp; gets a"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0767649</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test "sets a &amp; gets a"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJxzy8wpSS0qtlIoTi0pVkhUUFNIBzO4bKkLuBxzchRKUouBZhckFhenpihoGCqAGEUlmfl5Cpl5CoZgaYXkxOJUTS4uAHpNKpM=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>words::gives right arc length</Name>
+			<Path>.</Path>
+			<FullName>./words__gives_right_arc_length</FullName>
+			<FullCommandLine>/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test "gives right arc length"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0482111</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test "gives right arc length"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJytyTEKgDAQRNE+p5hSSy0FCxvvEeKSLCxRdhbPL3oGf/Xg72ohzgVVbyFcawtkLzDpNVpa/y1tZghhEFcm5cAw44WHnp3Qjun7KJkypvQAtz8ugQ==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>words::gives max length from axis</Name>
+			<Path>.</Path>
+			<FullName>./words__gives_max_length_from_axis</FullName>
+			<FullCommandLine>/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test "gives max length from axis"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0480134</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test "gives max length from axis"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJytyTEKgDAMRuG9p/hHHbsKDi7eI2isgbSVJkiPL3oG3/TBW0Wdm01IcrMhU4dySX7iaDWDuliY/y0sqnA2N1xkxjuGiBfNpRZIQfw2NjIeQ3gAdGcviA==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>words::calculates right area</Name>
+			<Path>.</Path>
+			<FullName>./words__calculates_right_area</FullName>
+			<FullCommandLine>/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test "calculates right area"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0369189</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test "calculates right area"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJxzy8wpSS0qtlJITsxJLs1JLEktVijKTM8oUUgsSk3ksqUu4HLMyVEAWlFSrFCQWFycmqKgYagAYhSVZObnKWTmKRiCpYGuKU7V5OICAF9BLdE=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>words::gives radius of curvative</Name>
+			<Path>.</Path>
+			<FullName>./words__gives_radius_of_curvative</FullName>
+			<FullCommandLine>/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test "gives radius of curvative"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0360998</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/vlados_korch/Документы/GitHub/3sem-lab-oop/build/card_test "gives radius of curvative"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJytibsNgDAMBftM8Uoo0yJR0LCHlRhkKUqQ7WR+PjNw1elul+KstuCUwQalLN3QDqSug/yJYf2XsJUCZ3PDRWacMUW8oi6tQirit5HIeA7hBlvrL20=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 08 21:22 MSK</EndDateTime>
+		<EndTestTime>1604859775</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

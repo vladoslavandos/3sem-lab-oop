@@ -1,4 +1,4 @@
-#include "cardioid.h"
+#include "cardioid.hpp"
 #include <iostream>
 
 void exit(Cardioid &card)
@@ -8,10 +8,27 @@ void exit(Cardioid &card)
 
 void seta(Cardioid &card)
 {
-  std::cout << "Input a>>";
-  double a;
-  std::cin >> a;
-  card.setA(a);
+  bool needAgain = true;
+  while (needAgain)
+  {
+    try
+    {
+      std::cout << "Input a>>";
+      double a;
+      std::cin >> a;
+
+      std::cout << "\n"
+                << "A set to " << card.setA(a); // может исключение
+      needAgain = false;
+    }
+    catch (const std::runtime_error &ex)
+    {
+      if (std::string(ex.what()) == "'a' cant be less then zero.")
+        std::cout << ex.what() << std::endl;
+      else
+        throw ex;
+    }
+  }
 }
 
 void geta(Cardioid &card)
@@ -56,7 +73,8 @@ void (*options[])(Cardioid &card) = {exit, seta, geta, getr, getmlfa, getrofc, g
 
 int main()
 {
-  Cardioid cardioid{0};
+  // Здесь можно не оборачивать в try, потому что создаёшь с 0, всегда проходит проверку на неотрицательность.
+  Cardioid cardioid{0}; // может исключение
   while (1)
   {
     std::cout << "Ask... \n\
@@ -70,7 +88,8 @@ int main()
     [7]Get arc length\n>>";
     int choice;
     std::cin >> choice;
-    if(choice > 7 || choice < 0) {
+    if (choice > 7 || choice < 0)
+    {
       std::cout << "Try again!\n";
       continue;
     }

@@ -1,0 +1,11 @@
+words::sets 0 0
+words::gives 0 0
+words::gives 0 0
+words::calculates 0 0
+words::gives 0 0
+words::sets a & gets a 1 0.0767649
+words::gives right arc length 1 0.0482111
+words::gives max length from axis 1 0.0480134
+words::calculates right area 1 0.0369189
+words::gives radius of curvative 1 0.0360998
+---
